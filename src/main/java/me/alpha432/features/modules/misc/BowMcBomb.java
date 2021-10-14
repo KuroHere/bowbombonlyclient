@@ -1,6 +1,6 @@
 package me.alpha432.oyvey.features.modules.misc;
 
-import stop.skid.nigga
+import stop.skid.nigga;
 import me.alpha432.oyvey.OyVey;
 import me.alpha432.oyvey.event.events.PacketEvent;
 import me.alpha432.oyvey.features.modules.Module;
