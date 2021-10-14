@@ -1,2 +1,7 @@
 # bowbombonlyclient
-read the title u nigga
+
+
+
+
+
+its literally oyvey with no other modules but added bowbomb so like have fun ig
