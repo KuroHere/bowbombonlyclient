@@ -1,11 +1,10 @@
 package me.alpha432.oyvey.features.modules.misc;
 
-import stop.skid.nigga;
-import me.alpha432.oyvey.OyVey;
-import me.alpha432.oyvey.event.events.PacketEvent;
-import me.alpha432.oyvey.features.modules.Module;
-import me.alpha432.oyvey.features.setting.Setting;
-import me.alpha432.oyvey.features.command.Command;
+import me.alpha432.OyVey;
+import me.alpha432.event.events.PacketEvent;
+import me.alpha432.features.modules.Module;
+import me.alpha432.features.setting.Setting;
+import me.alpha432.features.command.Command;
 import net.minecraft.item.*;
 import net.minecraft.network.play.client.CPacketEntityAction;
 import net.minecraft.network.play.client.CPacketPlayer;
